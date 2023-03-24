@@ -1,0 +1,21 @@
+{
+  "name": "discord-clone",
+  "version": "1.0.0",
+  "description": "Tailwind",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^4.2.1"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
